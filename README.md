@@ -6,6 +6,7 @@ dependencies required:
 2.numpy
 3.matplotlib
 
+Running NTP.py will recreate the plot files and display results.
 
 
 Files Description:
@@ -14,7 +15,7 @@ Files Description:
 
 2.TSI : Task specification interpretor/selector to predict next task sequence
 
-3.NTP : runs the complete NTP algorithm incorporating Core and TSI
+3.NTP : runs the complete NTP algorithm incorporating Core and TSI , Running this gives results
 
 4.API : Robot API Calls , move up /down / left / right
 
